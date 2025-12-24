@@ -27,7 +27,7 @@ Just open the `index.html` file in any modern browser — the website will displ
 ## 📷 Preview
 
 <p align="center">
-  <img src="./images/preview.png" alt="TinDog Website Preview" width="600">
+  <img src="./images/desktop-preview.png" alt="TinDog Website Preview" width="600">
 </p>
 
 Made as a beginner-friendly Bootstrap project 🚀
